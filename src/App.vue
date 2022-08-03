@@ -2,7 +2,7 @@
   <div class="badass-todo">
 
     <div class="title has-text-centered">
-      Badass Todo
+      😎 Reactive Todo
     </div>
 
     <form @submit.prevent="addTodo">
